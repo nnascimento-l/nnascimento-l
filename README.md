@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Informática para Negócios**
 - 📊 Apaixonado por **dados, dashboards e tomada de decisão**
-- 🧠 Projeto acadêmico em **Gestão de Equipes** (motivação no trabalho, teoria de Maslow)
+- 🧠 Projetos acadêmicos que unem **tecnologia e negócios**
 - 🚀 **Em busca de oportunidades em TI**
 - 🌱 Sempre aprendendo algo novo
 
@@ -22,7 +22,6 @@
 
 ![Dados](https://img.shields.io/badge/Dados-238636?style=for-the-badge)
 ![Dashboards](https://img.shields.io/badge/Dashboards-8957E5?style=for-the-badge)
-![Gestão de Equipes](https://img.shields.io/badge/Gestão_de_Equipes-1F6FEB?style=for-the-badge)
 ![Tecnologia](https://img.shields.io/badge/Tecnologia_da_Informação-F2C811?style=for-the-badge&labelColor=black)
 
 </div>
@@ -51,13 +50,5 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nnascimento-l&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636" />
 <img height="170" src="https://streak-stats.demolab.com/?user=nnascimento-l&theme=github-dark-blue&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=100&section=footer" width="100%" />
 
 </div>
