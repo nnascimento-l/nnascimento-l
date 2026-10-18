@@ -1,8 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="...pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="...pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+<img src="./banner.svg" width="100%" alt="Lucas Nascimento" />
+
+</div>
 
 ---
 
@@ -20,9 +20,21 @@
 
 <div align="center">
 
-![Dados](https://img.shields.io/badge/Dados-238636?style=for-the-badge)
+
+
+![Dados](https://img.shields.io/badge/Dados-FF5F6D?style=for-the-badge)
+
+
+
+
 ![Dashboards](https://img.shields.io/badge/Dashboards-8957E5?style=for-the-badge)
-![Tecnologia](https://img.shields.io/badge/Tecnologia_da_Informação-F2C811?style=for-the-badge&labelColor=black)
+
+
+
+
+![Tecnologia](https://img.shields.io/badge/Tecnologia_da_Informação-FFB86B?style=for-the-badge&labelColor=black)
+
+
 
 </div>
 
@@ -48,7 +60,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nnascimento-l&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636" />
-<img height="170" src="https://streak-stats.demolab.com/?user=nnascimento-l&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nnascimento-l&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF5F6D&icon_color=FFB86B&text_color=E6EDF3" />
+<img height="170" src="https://streak-stats.demolab.com/?user=nnascimento-l&theme=dark&hide_border=true&background=0d1117&ring=FF5F6D&fire=FFB86B&currStreakLabel=FF5F6D&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FFB86B&dates=9AA4B2" />
 
 </div>
