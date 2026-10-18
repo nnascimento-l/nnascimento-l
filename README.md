@@ -44,15 +44,15 @@
 
 | Projeto | Descrição |
 |---|---|
-| 🧠 [**diagnostico-motivacao-maslow**](https://github.com/nnascimento-l/diagnostico-motivacao-maslow) | Sistema web que diagnostica a motivação no trabalho com base na Pirâmide de Maslow, apoiando decisões de gestão de equipes. Projeto de curricularização. |
-| 🍷 [**Fruttino-Andino**](https://github.com/nnascimento-l/Fruttino-Andino) | Site acadêmico de bebidas alcoólicas chilenas, com foco em identidade visual e apresentação dos produtos. |
+| 🧠 [**diagnostico-motivacao-maslow**](https://github.com/nnascimento-l/diagnostico-motivacao-maslow) | Aplicação web que diagnostica a motivação no trabalho com base na hierarquia de necessidades de Maslow: o colaborador responde a 30 perguntas e recebe o resultado com gráfico, e a área administrativa mostra médias por setor e exporta para Excel. Projeto de curricularização da Fatec SBC. [Ver site](https://diagnostico-motivacao-maslow.vercel.app) |
+| 🍷 [*Fruttino-Andino*](https://github.com/nnascimento-l/Fruttino-Andino) | Site responsivo de um vinho frutal chileno, criado em parceria entre a Fatec São Bernardo do Campo e a Duoc UC (Chile). [Ver site](https://fruttino-andino-rho.vercel.app) |
 
 ## 📁 Outros projetos
 
 | Projeto | Descrição |
 |---|---|
 | 📈 [**Analise-Interesse-Cursos-SENAI**](https://github.com/nnascimento-l/Analise-Interesse-Cursos-SENAI) | Dashboard interativo em Power BI que analisa o interesse em cursos do SENAI, com painéis por curso, unidade, patrimônio e alunos. |
-| 🏁 [**F1-Digital-Sticker-Album**](https://github.com/nnascimento-l/F1-Digital-Sticker-Album) | Álbum digital de figurinhas inspirado na Fórmula 1, feito por paixão pelo esporte. |
+| 🏁 [*F1-Digital-Sticker-Album*](https://github.com/nnascimento-l/F1-Digital-Sticker-Album) | Álbum digital interativo de figurinhas da Fórmula 1, com livro folheável em 3D e tema claro/escuro. Feito durante a Imersão Alura. [Ver site](https://f1-digital-sticker-album.vercel.app) |
 
 ---
 
