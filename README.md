@@ -20,21 +20,7 @@
 
 <div align="center">
 
-
-
-![Dados](https://img.shields.io/badge/Dados-FF5F6D?style=for-the-badge)
-
-
-
-
-![Dashboards](https://img.shields.io/badge/Dashboards-8957E5?style=for-the-badge)
-
-
-
-
-![Tecnologia](https://img.shields.io/badge/Tecnologia_da_Informação-FFB86B?style=for-the-badge&labelColor=black)
-
-
+![Dados](https://img.shields.io/badge/Dados-FF5F6D?style=for-the-badge)&nbsp;![Dashboards](https://img.shields.io/badge/Dashboards-8957E5?style=for-the-badge)&nbsp;![Tecnologia](https://img.shields.io/badge/Tecnologia_da_Informação-FFB86B?style=for-the-badge&labelColor=black)
 
 </div>
 
@@ -51,6 +37,8 @@
 
 | Projeto | Descrição |
 |---|---|
+| 🛒 [**economarket**](https://github.com/nnascimento-l/economarket) | Comparador de preços de supermercado com lista de compras, cálculo de orçamento limite e suporte a PWA no navegador. [Ver site](https://economarket.vercel.app) |
+| 👑 [**Imperio-WP-Theme**](https://github.com/nnascimento-l/Imperio-WP-Theme) | Migração do site estático do Império Russo para WordPress, com tema próprio, personalização via Astra, menus multinível, carrossel de publicações e formulário de passaporte. [Ver site](https://imperiorusso.org) |
 | 📈 [**Analise-Interesse-Cursos-SENAI**](https://github.com/nnascimento-l/Analise-Interesse-Cursos-SENAI) | Dashboard interativo em Power BI que analisa o interesse em cursos do SENAI, com painéis por curso, unidade, patrimônio e alunos. |
 | 🏁 [*F1-Digital-Sticker-Album*](https://github.com/nnascimento-l/F1-Digital-Sticker-Album) | Álbum digital interativo de figurinhas da Fórmula 1, com livro folheável em 3D e tema claro/escuro. Feito durante a Imersão Alura. [Ver site](https://f1-digital-sticker-album.vercel.app) |
 
